@@ -28,7 +28,29 @@
 </div>
 
 <div align="center">
-  <picture>
-    <img src="github-metrics.svg" alt="Metrics" loading="lazy" title="Github Metrics"/>
-  </picture>
+  
+  ### 👨‍💻 Languages
+  
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-plastic&logo=markdown&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-plastic&logo=java&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white)
+  ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-plastic&logo=cplusplus&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-plastic&logo=c&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-plastic&logo=mysql&logoColor=white)
+  
+  ### ⚙️ Softwares & Tools
+
+  ![Bash](https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=flat-plastic&logo=gnubash&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-plastic&logo=git&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-plastic&logo=ubuntu&logoColor=white)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-plastic&logo=postman&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-plastic&logo=linux&logoColor=white)
+  ![Tailwind%20CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-plastic&logo=tailwindcss&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=bootstrap&logoColor=white)
+
 </div>
+
+
+
