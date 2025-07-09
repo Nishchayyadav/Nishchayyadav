@@ -13,7 +13,7 @@
   </p>
    
   <h4>
-    <a href="https://nishchayyadav.github.io/nishchay.github.io/">Website</a>
+    <a href="https://nishchay-umber.vercel.app/">Website</a>
     <span> · </span>
     <a href="https://www.linkedin.com/in/nishchay04/">Linkedin</a>
   </h4>
