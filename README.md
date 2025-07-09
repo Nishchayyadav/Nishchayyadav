@@ -15,8 +15,6 @@
   <h4>
     <a href="https://nishchayyadav.github.io/nishchay.github.io/">Website</a>
     <span> · </span>
-    <a href="https://github.com/Nishchayyadav">Github</a>
-    <span> · </span>
     <a href="https://www.linkedin.com/in/nishchay-yadav-878037256/">Linkedin</a>
   </h4>
 </div>
